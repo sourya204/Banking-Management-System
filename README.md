@@ -22,3 +22,25 @@ Banking-Management-System/
 ├── bank.py               # Original core banking engine / CLI version
 ├── bankgui.py            # Primary desktop GUI application source file 
 └── README.md             # Project documentation
+```
+---
+
+## How to Run
+
+Follow these steps to download and launch the application on your local machine:
+
+1. **Clone the Repository:**
+   Open your terminal or command prompt and run the following command to download the project files:
+   ```bash
+   git clone [https://github.com/sourya204/Banking-Management-System.git](https://github.com/sourya204/Banking-Management-System.git)
+   ```
+2. **Navigate to the Project Directory:**
+  Change your working directory to the folder containing the repository files:
+  ```bash
+  cd Banking-Management-System
+  ```
+3. **Launch the Application:**
+   Execute the main script using Python to start the Graphical User Interface (GUI):
+   ```bash
+   python bankgui.py
+   ```
