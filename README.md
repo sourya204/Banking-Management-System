@@ -20,6 +20,6 @@ Banking-Management-System/
 ├── screenshots/          # Application UI previews and walk-throughs
 │   └── .gitkeep
 ├── accounts.txt          # Plain text database storing account variables (auto-generated)
-├── transactions.txt      # Log file containing audit history (auto-generated)
-├── bankgui.py            # Primary application source file containing layout and logic
+├── bank.py               # Original core banking engine / CLI version
+├── bankgui.py            # Primary desktop GUI application source file 
 └── README.md             # Project documentation
