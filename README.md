@@ -37,7 +37,7 @@ Follow these steps to download and launch the application on your local machine:
 2. **Navigate to the Project Directory:**
   Change your working directory to the folder containing the repository files:
   ```bash
-  cd Banking-Management-System
+    cd Banking-Management-System
   ```
 3. **Launch the Application:**
    Execute the main script using Python to start the Graphical User Interface (GUI):
