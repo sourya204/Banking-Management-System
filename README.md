@@ -18,7 +18,6 @@ A lightweight, secure Desktop Banking Application built using Python and Tkinter
 ```text
 Banking-Management-System/
 ├── screenshots/          # Application UI previews and walk-throughs
-│   └── .gitkeep
 ├── accounts.txt          # Plain text database storing account variables (auto-generated)
 ├── bank.py               # Original core banking engine / CLI version
 ├── bankgui.py            # Primary desktop GUI application source file 
